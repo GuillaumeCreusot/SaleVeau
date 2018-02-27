@@ -1,0 +1,3 @@
+C:\Users\lhache\Downloads\SaleVeau_V2.11F\SaleVeau\SaleVeau\bin\Release\SaleVeau.exe.config
+C:\Users\lhache\Downloads\SaleVeau_V2.11F\SaleVeau\SaleVeau\obj\Release\SaleVeau.exe
+C:\Users\lhache\Downloads\SaleVeau_V2.11F\SaleVeau\SaleVeau\obj\Release\SaleVeau.pdb
